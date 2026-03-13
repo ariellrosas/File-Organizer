@@ -39,7 +39,7 @@ git clone https://github.com/seu-usuario/file-organizer.git
 cd file-organizer
 
 # 2. Instale as dependências
-pip install PyQt5
+pip install -r requirements.txt
 ```
 
 ### Como Usar
@@ -142,7 +142,7 @@ git clone https://github.com/seu-usuario/file-organizer.git
 cd file-organizer
 
 # 2. Install dependencies
-pip install PyQt5
+pip install -r requirements.txt
 ```
 
 ### Usage
